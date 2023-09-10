@@ -1,0 +1,55 @@
+# notice
+Please replace the wording with your own.
+This template is just an example to give
+you an idea of how an auto reply email
+should be set up.
+
+* Template Name: Auto-Reply Email Example Template
+* Author: Warren Woodhouse - https://warrenwoodhouse.tumblr.com/
+* Type: Email Template
+
+# template
+> SUBJECT: On Holiday
+> BODY TEXT:
+Hello everyone,
+
+I'm currently unavailable and I might not be able to respond to your email as I’m on holiday. When I return, I will read all the emails that you have sent me and I will reply back to all of them.
+
+Until then, please take a look at my videos at
+https://youtube.com/user/warrenwoodhouse , photos at
+https://warrenwoodhouse.tumblr.com/tagged/photos and please feel free
+to check out the rest of my blog at
+https://warrenwoodhouse.tumblr.com/
+
+When I come back from my holiday, I’ll upload my photos and share them
+on my blog which you’ll then be able to leave a comment on at https://warrenwoodhouse.tumblr.com/tagged/holiday
+
+Thank you so much for your patience. Alternatively, you can send
+messages to me at https://tumblr.com/messaging/conversation/warrenwoodhouse
+
+Kindest Regards,
+
+Warren Woodhouse
+Gamer, Guitarist, Musician, Artist, Graphic Designer, Typographer,
+Photographer, Blogger & YouTuber
+
+> EMAIL SIGNATURE:
+---
+STAY IN TOUCH
+---
+• Official Website: https://warrenwoodhouse.tumblr.com/
+• Official Blog: https://warrenwoodhouse.tumblr.com/
+• Photos: https://warrenwoodhouse.tumblr.com/tagged/photos
+• Artwork: https://warrenwoodhouse.tumblr.com/tagged/artwork
+• YouTube: https://youtube.com/user/warrenwoodhouse
+• YouTube Gaming: https://gaming.youtube.com/user/warrenwoodhouse
+• Twitter / X: https://twitter.com/warrenwoodhouse
+• Pinterest: https://pinterest.com/worldofpins
+• Contact me on Facebook Messenger: https://messenger.com/t/warrenwoodhousesite
+• PlayStation Profile: warren-woodhouse
+• XBOX Gamertag: WarrenWoodhouse
+• Podcast: https://warrenwoodhouse.tumblr.com/tagged/podcasts-warrenwoodhouse
+• GitHub: https://github.com/warrenwoodhouse
+
+# footer
+Shared from the Gmail app
