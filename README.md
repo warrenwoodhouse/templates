@@ -7,7 +7,7 @@ A repository containing templates for Tumblr, HTML, WordPress and more.
 * [HTML Templates](https://github.com/warrenwoodhouse/templates/tree/main/html)
 * [License Templates](https://github.com/warrenwoodhouse/templates/tree/main/licenses)
 * [WordPress Themes](https://github.com/warrenwoodhouse/wordpressthemes)
-* [Piczo Layouts](https://warrenwoodhouse.blogspot.com/piczolayouts)
+* [Piczo Templates](https://warrenwoodhouse.blogspot.com/piczotemplates)
 * [MySpace Layouts](https://warrenwoodhouse.blogspot.com/myspacelayouts)
 * [Bebo Skins](https://warrenwoodhouse.blogspot.com/beboskins)
 * [Bebo Mail Skins](https://warrenwoodhouse.blogspot.com/bebomailskins)
